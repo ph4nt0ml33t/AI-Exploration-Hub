@@ -1,6 +1,5 @@
 # Title: Hardening the IoT Attack Surface: Device, Network and Data Protection
 
-Here is a summary and in-depth overview of the table of contents:
 
 # Introduction
 
